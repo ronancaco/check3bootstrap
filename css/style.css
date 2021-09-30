@@ -1,0 +1,14 @@
+}
+.banner {
+    height: 10vh;
+  }
+  p:hover, h1:hover, a:hover {
+    background-color: greenyellow;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
+   
+
+  
